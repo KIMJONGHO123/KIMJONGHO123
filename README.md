@@ -50,9 +50,7 @@
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=KIMJONGHO123&show_icons=true&theme=tokyonight&hide_rank=true" />
     </td>
-
     <td width="40"></td>
-
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KIMJONGHO123&layout=compact&theme=tokyonight" />
     </td>
