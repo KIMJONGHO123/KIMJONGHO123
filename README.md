@@ -60,7 +60,7 @@ React / Next.js 기반의 프론트엔드 개발을 함께 경험하고 있습�
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KIMJONGHO123&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=아이디&show_icons=true&theme=tokyonight)
 
 ---
 
