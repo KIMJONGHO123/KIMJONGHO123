@@ -27,6 +27,7 @@
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
 
 <br/>
+
 ## ✨ About Me
 <a href="https://77-kim.tistory.com/" target="_blank"> <img src="https://img.shields.io/badge/Tistory-FF5722?style=for-the-badge&logo=tistory&logoColor=white"/> </a>
 
