@@ -1,51 +1,69 @@
 ## Hi there 👋
 
--- 자바 뱃지
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"> 
+## 👋 Hi there
 
--- 스프링 뱃지
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> 
+안녕하세요.  
+웹 백엔드와 프론트엔드를 함께 다루는 개발자입니다.
 
-- Next.js
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
+Spring Boot 기반의 서버 개발과  
+React / Next.js 기반의 프론트엔드 개발을 함께 경험하고 있습니다.
 
-- React
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+단순히 “동작하는 코드”가 아니라  
+유지보수하기 좋고, 확장 가능한 구조를 만드는 것을 중요하게 생각합니다.
 
--- 자바스크립트 뱃지
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=FFF"/> 
+현재는 **한국 여행 가이드 웹 서비스** 개인 프로젝트를 진행 중이며,  
+백엔드(Spring Boot) · 프론트엔드(Next.js) · 인프라(AWS, Docker)를  
+하나의 서비스 관점에서 설계하고 구현하고 있습니다.
 
--- HTML5 뱃지
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFF"/>
+---
 
--- CSS3 뱃지 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=FFF"/>
+## 🛠 Tech Stack
 
-- Tailwind CSS
-<img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/>
+<!-- Backend / Core -->
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 
--- 오라클 뱃지
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=FFF"/> 
+<br/>
 
--- mysql 뱃지
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<!-- Frontend -->
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000">
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000">
 
-- Docker
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+<br/>
 
-- Postman
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
+<!-- Markup & Style -->
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
 
-- AmazonAWS
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+<br/>
 
--- 깃허브 뱃지
-<img src="https://img.shields.io/badge/GitHub-EAEAEA?style=for-the-badge&logo=github&logoColor=000"/> 
+<!-- Database -->
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 
--- 티스토리 블로그 뱃지
+<br/>
+
+<!-- DevOps & Tools -->
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-EAEAEA?style=for-the-badge&logo=github&logoColor=000">
+
+---
+
+## 🙋 About Me
+
+- 백엔드와 프론트엔드를 모두 이해하는 개발자를 목표로 하고 있습니다.
+- 기능 구현뿐 아니라 “왜 이렇게 설계했는지”를 설명할 수 있는 코드를 지향합니다.
+- 개인 프로젝트에서도 실제 서비스 운영을 가정한 구조를 만들려고 합니다.
+
+### ✍ Blog
 <a href="https://77-kim.tistory.com/" target="_blank">
   <img src="https://img.shields.io/badge/Tistory-FF5722?style=for-the-badge&logo=tistory&logoColor=white"/>
 </a>
+
 
 ---
 
