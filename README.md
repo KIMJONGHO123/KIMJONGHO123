@@ -27,19 +27,16 @@
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
 
 <br/>
-
 ## ✨ About Me
-
-백엔드와 프론트엔드를 모두 이해하는 개발자를 목표로 합니다.  
-“왜 이렇게 설계했는지” 설명할 수 있는 코드를 중요하게 생각합니다.
-
-<br/>
-
-## ✍ Blog
 
 <a href="https://77-kim.tistory.com/" target="_blank">
   <img src="https://img.shields.io/badge/Tistory-FF5722?style=for-the-badge&logo=tistory&logoColor=white"/>
 </a>
+
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+</a>
+
 
 <br/><br/>
 
