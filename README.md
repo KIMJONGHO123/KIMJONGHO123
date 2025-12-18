@@ -65,9 +65,6 @@ React / Next.js 기반의 프론트엔드 개발을 함께 경험하고 있습�
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=KIMJONGHO123&show_icons=true&theme=tokyonight&hide_rank=true" />
     </td>
-  </tr>
-
-  <tr>
     <!-- 가운데 여백 -->
     <td width="40"></td>
     <td align="center">
